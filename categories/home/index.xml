@@ -6,16 +6,17 @@
     <description>Recent content in Home on sroesch.de</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Tue, 23 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://sroesch.de/categories/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello internet. It´s me, Sebastian.</title>
-      <link>https://sroesch.de/1/welcome/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <link>https://sroesch.de/2019/welcome/</link>
+      <pubDate>Tue, 23 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://sroesch.de/1/welcome/</guid>
+      <guid>https://sroesch.de/2019/welcome/</guid>
       <description>So, a few weeks ago I decided to create my personal blog. Nothing fancy, mostly just a place to share the things I do in my nerd time. Conveniently creating this blog is in itself one of the nerdy things I can write about. But I´ll safe that for another day.
 This post is meant to introduce myself. I´m a 31-year-old guy born near Freiburg and living in Stuttgart. I like doing and watching sports, hanging out with friends and family, cooking and reading books on my kindle.</description>
     </item>

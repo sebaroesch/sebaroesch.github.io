@@ -5,25 +5,15 @@
     <description>Recent content in sroesch.de on sroesch.de</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Jun 2010 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jul 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://sroesch.de/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>About sroesch.de</title>
-      <link>https://sroesch.de/about/</link>
-      <pubDate>Tue, 01 Jun 2010 00:00:00 +0000</pubDate>
-      
-      <guid>https://sroesch.de/about/</guid>
-      <description>&lt;p&gt;Welcome to my blog.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Hello internet. It´s me, Sebastian.</title>
-      <link>https://sroesch.de/1/welcome/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <link>https://sroesch.de/2019/welcome/</link>
+      <pubDate>Tue, 23 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://sroesch.de/1/welcome/</guid>
+      <guid>https://sroesch.de/2019/welcome/</guid>
       <description>&lt;p&gt;So, a few weeks ago I decided to create my personal blog. Nothing fancy, mostly just a place to share the things I do in my nerd time. Conveniently creating this blog is in itself one of the nerdy things I can write about. But I´ll safe that for another day.&lt;/p&gt;
 
 &lt;p&gt;This post is meant to introduce myself.
@@ -34,6 +24,16 @@ Examples: discreet home automation, a smart mirror or a more beautiful shell for
 &lt;p&gt;So, as I said initially: nothing fancy. But maybe still interesting for some of you.&lt;/p&gt;
 
 &lt;p&gt;Sebastian&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About sroesch.de</title>
+      <link>https://sroesch.de/about/</link>
+      <pubDate>Tue, 01 Jun 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://sroesch.de/about/</guid>
+      <description>&lt;p&gt;Welcome to my blog.&lt;/p&gt;
 </description>
     </item>
     
