@@ -1,0 +1,41 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sroesch.de on sroesch.de</title>
+    <link>https://sroesch.de/</link>
+    <description>Recent content in sroesch.de on sroesch.de</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 01 Jun 2010 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://sroesch.de/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About sroesch.de</title>
+      <link>https://sroesch.de/about/</link>
+      <pubDate>Tue, 01 Jun 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://sroesch.de/about/</guid>
+      <description>&lt;p&gt;Welcome to my blog.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hello internet. It´s me, Sebastian.</title>
+      <link>https://sroesch.de/1/welcome/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sroesch.de/1/welcome/</guid>
+      <description>&lt;p&gt;So, a few weeks ago I decided to create my personal blog. Nothing fancy, mostly just a place to share the things I do in my nerd time. Conveniently creating this blog is in itself one of the nerdy things I can write about. But I´ll safe that for another day.&lt;/p&gt;
+
+&lt;p&gt;This post is meant to introduce myself.
+I´m a 31-year-old guy born near Freiburg and living in Stuttgart. I like doing and watching sports, hanging out with friends and family, cooking and reading &lt;del&gt;books&lt;/del&gt; on my kindle. Between weekends I work as a software engineer for one of the two car companies in this town.
+I´m a very curious type of guy. I like to dip my toe in new concepts and technologies - be it hardware or software - with a focus on unobstrusive solutions that still upgrade some inconvenient thing in my everyday life.
+Examples: discreet home automation, a smart mirror or a more beautiful shell for one of my Sonos speakers.&lt;/p&gt;
+
+&lt;p&gt;So, as I said initially: nothing fancy. But maybe still interesting for some of you.&lt;/p&gt;
+
+&lt;p&gt;Sebastian&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
