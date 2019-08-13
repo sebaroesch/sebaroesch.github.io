@@ -10,9 +10,9 @@
   
   
   
+  <link rel="prev" href="https://sroesch.de/2019/welcome/" />
   
-  <link rel="next" href="https://sroesch.de/2019/magic-mirror/" />
-  <link rel="canonical" href="https://sroesch.de/2019/welcome/" />
+  <link rel="canonical" href="https://sroesch.de/2019/magic-mirror/" />
   <link rel='shortcut icon' type='image/x-icon' href='/favicon.ico' />
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -24,10 +24,10 @@
   <title>
        
        
-           Hello internet. It´s me, Sebastian. | sroesch.de
+           Magic Mirror | sroesch.de
        
   </title>
-  <meta name="title" content="Hello internet. It´s me, Sebastian. | sroesch.de">
+  <meta name="title" content="Magic Mirror | sroesch.de">
     
   
   <link rel="stylesheet" href="/font/iconfont.css">
@@ -35,29 +35,29 @@
 
 
   <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Hello internet. It´s me, Sebastian."/>
-<meta name="twitter:description" content="Hello internet."/>
+<meta name="twitter:title" content="Magic Mirror"/>
+<meta name="twitter:description" content="A mirror that doubles as a display for all sorts of information."/>
 
   <script type="application/ld+json">
 {
   "@context": "http://schema.org",
   "@type": "BlogPosting",
-  "headline": "Hello internet. It´s me, Sebastian.",
+  "headline": "Magic Mirror",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https:\/\/sroesch.de\/2019\/welcome\/"
+    "@id": "https:\/\/sroesch.de\/2019\/magic-mirror\/"
   },
   
   "genre": "posts",
-  "keywords": "personal",
-  "wordcount":  181 ,
-  "url": "https:\/\/sroesch.de\/2019\/welcome\/",
-  "datePublished": "2019-07-23T00:00:00\x2b00:00",
-  "dateModified": "2019-07-23T00:00:00\x2b00:00",
+  "keywords": "nerdthings, WAF",
+  "wordcount":  321 ,
+  "url": "https:\/\/sroesch.de\/2019\/magic-mirror\/",
+  "datePublished": "2019-08-13T00:00:00\x2b00:00",
+  "dateModified": "2019-08-13T00:00:00\x2b00:00",
   
   
   
-  "description": "Hello internet."
+  "description": "A mirror that doubles as a display for all sorts of information."
 }
 </script>
 </head>
@@ -117,25 +117,27 @@
       		
 <article class="post-warp">
     <header class="post-header">
-        <h1 class="post-title">Hello internet. It´s me, Sebastian.</h1>
+        <h1 class="post-title">Magic Mirror</h1>
         <div class="post-meta">
             Written by <a href="https://sroesch.de/" rel="author">Sebastian Rösch</a> with ♥ 
                 <span class="post-time">
-                    on <time datetime=2019-07-23 >23 July 2019</time>
+                    on <time datetime=2019-08-13 >13 August 2019</time>
                 </span>
                 in
                 <i class="iconfont icon-folder"></i>
                 <span class="post-category">
-                        <a href="https://sroesch.de/categories/home/"> Home </a>
+                        <a href="https://sroesch.de/categories/projects/"> Projects </a>
                         
                 </span>
                 <i class="iconfont icon-timer"></i>
-                1 min
+                2 min
         </div>
     </header>
     <div class="post-content">
         
 
+        
+            
         
 
         
@@ -149,16 +151,32 @@
           
           
 
-          <p>So, a few weeks ago I decided to create my personal blog. Nothing fancy, mostly just a place to share the things I do in my nerd time. Conveniently creating this blog is in itself one of the nerdy things I can write about. But I´ll safe that for another day.</p>
+          <p>Some years ago, I stumbled upon the blog of a dutch guy, that had a great <a href="https://michaelteeuw.nl/post/80391333672/magic-mirror-part-i-the-idea-the-mirror" rel="nofollow noreferrer" target="_blank">idea</a>:</p>
 
-<p>This post is meant to introduce myself.
-I´m a 31-year-old guy born near Freiburg and living in Stuttgart. I like doing and watching sports, hanging out with friends and family, cooking and reading <del>books</del> on my kindle. Between weekends I work as a software engineer for one of the two car companies in this town.
-I´m a very curious type of guy. I like to dip my toe in new concepts and technologies - be it hardware or software - with a focus on unobstrusive solutions that still upgrade some inconvenient thing in my everyday life.
-Examples: discreet home automation, a smart mirror or a more beautiful shell for one of my Sonos speakers.</p>
+<blockquote>
+<p>Why not make a ordinary mirror more useful by displaying additional, helpful information on the surface of the mirror?</p>
+</blockquote>
 
-<p>So, as I said initially: nothing fancy. But maybe still interesting for some of you.</p>
+<p>But how, you ask? Michael (the dutch guy) came up with a very smart solution. He stripped down an old monitor and placed it behind a semi-transparent mirror (like the mirrors in a police interrogation room). Add a wooden frame and a Rasperry Pi that fills the screen with content and there you go:</p>
 
-<p>Sebastian</p>
+<p><figure><img src="/images/ring.svg" data-sizes="auto" data-src="/images/2019/6/explode.jpg" alt="Magic Mirror explode sketch." class="lazyload"><figcaption class="image-caption">Magic Mirror explode sketch.</figcaption></figure></p>
+
+<p>Michael did&rsquo;t stop there. He created a fullblown open source software called <a href="https://github.com/MichMich/MagicMirror/" rel="nofollow noreferrer" target="_blank">MagicMirror</a>, that allows you to display all sorts of information (calendar, weather, news, train schedule, etc.). In addition to the build-in modules, MagicMorror provides a powerful add-on mechnism and offers plenty of custom addons, thanks to the fantastic <a href="https://forum.magicmirror.builders/" rel="nofollow noreferrer" target="_blank">community</a> that emerged around Michael&rsquo;s software.</p>
+
+<p>I was fascinated by the idea to display useful information in an unobstrusive and delighting way. Ideally delighting enough, to get an acceptable WAF. After reading about another <a href="https://medium.com/@maxbraun/my-bathroom-mirror-is-smarter-than-yours-94b21c6671ba" rel="nofollow noreferrer" target="_blank">mirror project</a> - this time implemented by Max Braun, an engnieer a Google - I was conviced, that this is possible and started to work own my own mirror.</p>
+
+<p>My mirror is based on the MagicMirror software and the following hardware:</p>
+
+<ul>
+<li>Raspberry Pi 3B</li>
+<li>Asus MB169B+ - a ultra-slim USB-monitor</li>
+<li>0.5m * 0.4m * 0,3cm mirror glass - I ordered it <a href="https://forum.magicmirror.builders/topic/1011/order-closed-two-way-mirror-order-in-germany/3?page=1" rel="nofollow noreferrer" target="_blank">here</a></li>
+<li>IKEA Ribba frame, 0.5m * 0.4m - I didn&rsquo;t have the tools to build my own frame, this was a great and inexpensive alternative</li>
+<li>PIR sensor - used to turn on the screen once movement is detected near the mirror</li>
+<li>5.8GHZ Microwave Radar Sensor - I replaced the PIR with this, since this one can be placed behind the glass of the mirror</li>
+</ul>
+
+<p>I&rsquo;ll update this post with more info about my build, such as the modules I use and some pictures of the result.</p>
 
     </div>
 
@@ -172,7 +190,7 @@ Examples: discreet home automation, a smart mirror or a more beautiful shell for
            
             <p class="copyright-item">
                     <span>Words:</span>
-                   <span>181</span>
+                   <span>321</span>
             </p>
             
             <p class="copyright-item">
@@ -192,8 +210,11 @@ Examples: discreet home automation, a smart mirror or a more beautiful shell for
             <section>
             <i class="iconfont icon-icon-tag"></i>Tag: 
             
-            <span class="tag"><a href="https://sroesch.de/tags/personal/">
-                    #personal</a></span>
+            <span class="tag"><a href="https://sroesch.de/tags/nerdthings/">
+                    #nerdthings</a></span>
+            
+            <span class="tag"><a href="https://sroesch.de/tags/waf/">
+                    #WAF</a></span>
             
             </section>
         
@@ -204,9 +225,9 @@ Examples: discreet home automation, a smart mirror or a more beautiful shell for
     </div>
 
     <div class="post-nav">
-         
         
-        <a href="https://sroesch.de/2019/magic-mirror/" class="next" rel="next" title="Magic Mirror">Magic Mirror&nbsp;<i class="iconfont icon-xiaojiantou"></i></a>
+        <a href="https://sroesch.de/2019/welcome/" class="prev" rel="prev" title="Hello internet. It´s me, Sebastian."><i class="iconfont icon-dajiantou"></i>&nbsp;Hello internet. It´s me, Sebastian.</a>
+         
         
     </div>
 
@@ -247,8 +268,9 @@ Examples: discreet home automation, a smart mirror or a more beautiful shell for
 
 
     
-    
-    <script src="/js/vendor_no_gallery.min.js" async=""></script>
+     <link href="//lib.baomitu.com/lightgallery/1.6.12/css/lightgallery.min.css" rel="stylesheet">  
+      
+     <script src="/js/vendor_gallery.min.js" async="" ></script>
     
   
 

@@ -5,8 +5,43 @@
     <description>Recent content in sroesch.de on sroesch.de</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Aug 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://sroesch.de/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Magic Mirror</title>
+      <link>https://sroesch.de/2019/magic-mirror/</link>
+      <pubDate>Tue, 13 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sroesch.de/2019/magic-mirror/</guid>
+      <description>&lt;p&gt;Some years ago, I stumbled upon the blog of a dutch guy, that had a great &lt;a href=&#34;https://michaelteeuw.nl/post/80391333672/magic-mirror-part-i-the-idea-the-mirror&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;idea&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Why not make a ordinary mirror more useful by displaying additional, helpful information on the surface of the mirror?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;But how, you ask? Michael (the dutch guy) came up with a very smart solution. He stripped down an old monitor and placed it behind a semi-transparent mirror (like the mirrors in a police interrogation room). Add a wooden frame and a Rasperry Pi that fills the screen with content and there you go:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://sroesch.de/images/2019/6/explode.jpg&#34; alt=&#34;Magic Mirror explode sketch.&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Michael did&amp;rsquo;t stop there. He created a fullblown open source software called &lt;a href=&#34;https://github.com/MichMich/MagicMirror/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;MagicMirror&lt;/a&gt;, that allows you to display all sorts of information (calendar, weather, news, train schedule, etc.). In addition to the build-in modules, MagicMorror provides a powerful add-on mechnism and offers plenty of custom addons, thanks to the fantastic &lt;a href=&#34;https://forum.magicmirror.builders/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;community&lt;/a&gt; that emerged around Michael&amp;rsquo;s software.&lt;/p&gt;
+
+&lt;p&gt;I was fascinated by the idea to display useful information in an unobstrusive and delighting way. Ideally delighting enough, to get an acceptable WAF. After reading about another &lt;a href=&#34;https://medium.com/@maxbraun/my-bathroom-mirror-is-smarter-than-yours-94b21c6671ba&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;mirror project&lt;/a&gt; - this time implemented by Max Braun, an engnieer a Google - I was conviced, that this is possible and started to work own my own mirror.&lt;/p&gt;
+
+&lt;p&gt;My mirror is based on the MagicMirror software and the following hardware:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Raspberry Pi 3B&lt;/li&gt;
+&lt;li&gt;Asus MB169B+ - a ultra-slim USB-monitor&lt;/li&gt;
+&lt;li&gt;0.5m * 0.4m * 0,3cm mirror glass - I ordered it &lt;a href=&#34;https://forum.magicmirror.builders/topic/1011/order-closed-two-way-mirror-order-in-germany/3?page=1&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;IKEA Ribba frame, 0.5m * 0.4m - I didn&amp;rsquo;t have the tools to build my own frame, this was a great and inexpensive alternative&lt;/li&gt;
+&lt;li&gt;PIR sensor - used to turn on the screen once movement is detected near the mirror&lt;/li&gt;
+&lt;li&gt;5.8GHZ Microwave Radar Sensor - I replaced the PIR with this, since this one can be placed behind the glass of the mirror&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I&amp;rsquo;ll update this post with more info about my build, such as the modules I use and some pictures of the result.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Hello internet. It´s me, Sebastian.</title>

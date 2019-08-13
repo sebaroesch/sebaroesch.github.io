@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WAF on sroesch.de</title>
+    <link>https://sroesch.de/tags/waf/</link>
+    <description>Recent content in WAF on sroesch.de</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 13 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://sroesch.de/tags/waf/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Magic Mirror</title>
+      <link>https://sroesch.de/2019/magic-mirror/</link>
+      <pubDate>Tue, 13 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sroesch.de/2019/magic-mirror/</guid>
+      <description>Some years ago, I stumbled upon the blog of a dutch guy, that had a great idea:
+ Why not make a ordinary mirror more useful by displaying additional, helpful information on the surface of the mirror?
+ But how, you ask? Michael (the dutch guy) came up with a very smart solution. He stripped down an old monitor and placed it behind a semi-transparent mirror (like the mirrors in a police interrogation room).</description>
+    </item>
+    
+  </channel>
+</rss>
