@@ -5,8 +5,28 @@
     <description>Recent content in sroesch.de on sroesch.de</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://sroesch.de/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>100 Days of Code - Challenge accepted.</title>
+      <link>https://sroesch.de/2020/100-days-of-code/</link>
+      <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sroesch.de/2020/100-days-of-code/</guid>
+      <description>&lt;p&gt;The last few months were very busy, since I had a large personal project going on.&lt;/p&gt;
+
+&lt;p&gt;I moved away from Stuttgart, back to the area I come from. In early autumn Theresa and I started to look for a suitable flat. We browsed the listings every day and had several viewings. In October we found the flat we were looking for and signed the contract. Now the next level started: coming up with a solution for all the &lt;del&gt;annoying&lt;/del&gt; lovely quirks of the old building, and planning when and how to move in.&lt;/p&gt;
+
+&lt;p&gt;This and the excecution of our plans took way more of our time than we expected. But around two weeks ago we finally reached the point were we were happy with what we have so far and decided that we are &amp;ldquo;done&amp;rdquo; with moving in. We also had some friends and family coming over to celebrate this and to say thanks to all the people that helped us. ;-)&lt;/p&gt;
+
+&lt;p&gt;Why am I writing this in an artivle tha is about a code challenge? There are two reasons. The first is, that the relocation process forced me reduce the time I put into coding projects (and other things..). The challenge is kind of a restart.&lt;/p&gt;
+
+&lt;p&gt;The second reason is, that the new home gave me lots of ideas for small projects I want to to in the future. Some of them &lt;del&gt;might&lt;/del&gt; will find there way on this blog soon.&lt;/p&gt;
+
+&lt;p&gt;So, I´ll start the #100DaysOfCode challenge. The challenge is trending on twitter currently and there is even an official website: &lt;a href=&#34;https://www.100daysofcode.com/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;https://www.100daysofcode.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Magic Mirror</title>

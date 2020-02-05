@@ -6,10 +6,19 @@
     <description>Recent content in Tags on sroesch.de</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://sroesch.de/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>nerdthings</title>
+      <link>https://sroesch.de/tags/nerdthings/</link>
+      <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sroesch.de/tags/nerdthings/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>WAF</title>
@@ -17,15 +26,6 @@
       <pubDate>Tue, 13 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://sroesch.de/tags/waf/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>nerdthings</title>
-      <link>https://sroesch.de/tags/nerdthings/</link>
-      <pubDate>Tue, 13 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://sroesch.de/tags/nerdthings/</guid>
       <description></description>
     </item>
     

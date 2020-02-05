@@ -6,10 +6,20 @@
     <description>Recent content in nerdthings on sroesch.de</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://sroesch.de/tags/nerdthings/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>100 Days of Code - Challenge accepted.</title>
+      <link>https://sroesch.de/2020/100-days-of-code/</link>
+      <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sroesch.de/2020/100-days-of-code/</guid>
+      <description>The last few months were very busy, since I had a large personal project going on.
+I moved away from Stuttgart, back to the area I come from. In early autumn Theresa and I started to look for a suitable flat. We browsed the listings every day and had several viewings. In October we found the flat we were looking for and signed the contract. Now the next level started: coming up with a solution for all the annoying lovely quirks of the old building, and planning when and how to move in.</description>
+    </item>
     
     <item>
       <title>Magic Mirror</title>

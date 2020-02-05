@@ -2,9 +2,79 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
+      <loc>https://sroesch.de/2020/100-days-of-code/</loc>
+      
+      <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+      
+      
+      
+      
+    </url>
+  
+    <url>
       <loc>https://sroesch.de/categories/</loc>
       
-      <lastmod>2019-08-13T00:00:00+00:00</lastmod>
+      <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://sroesch.de/posts/</loc>
+      
+      <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://sroesch.de/categories/projects/</loc>
+      
+      <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://sroesch.de/tags/</loc>
+      
+      <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://sroesch.de/tags/nerdthings/</loc>
+      
+      <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://sroesch.de/</loc>
+      
+      <lastmod>2020-02-05T00:00:00+00:00</lastmod>
       
       
       
@@ -24,67 +94,7 @@
     </url>
   
     <url>
-      <loc>https://sroesch.de/posts/</loc>
-      
-      <lastmod>2019-08-13T00:00:00+00:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://sroesch.de/categories/projects/</loc>
-      
-      <lastmod>2019-08-13T00:00:00+00:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://sroesch.de/tags/</loc>
-      
-      <lastmod>2019-08-13T00:00:00+00:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
       <loc>https://sroesch.de/tags/waf/</loc>
-      
-      <lastmod>2019-08-13T00:00:00+00:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://sroesch.de/tags/nerdthings/</loc>
-      
-      <lastmod>2019-08-13T00:00:00+00:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://sroesch.de/</loc>
       
       <lastmod>2019-08-13T00:00:00+00:00</lastmod>
       
